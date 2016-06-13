@@ -1,0 +1,67 @@
+body{
+	background-color: #141414;
+}
+
+header{
+	margin: 75px 0 0 0;
+}
+
+header img{
+	width: auto;
+	margin: 0 auto;
+}
+
+footer{
+	bottom:0px;
+	padding-top:10px;
+	margin-top:20px;
+	background-color:#141414;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	text-align:center;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+	line-height: 22px;
+}
+
+
+/* Style for Frontpage */
+
+main {
+	margin: 30px 0 0 0;
+}
+
+main .row{
+	margin: 15px 0 0 0;
+}
+
+main h3{
+	text-align: center;
+	color:#FFF;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 300;
+}
+
+main h4{
+	font-style: none;
+	font-weight: 300;
+	padding-right: 4px;
+	padding-left: 4px;
+}
+
+/* Style for Maps */
+
+a {
+	text-decoration: none; /* no underline */
+  	color:#FFF;
+	font-family: 'Oswald', sans-serif;
+}
+
+main .maps h3, main .maps h4{
+	color:#F6F7F2;
+	display:inline-block;
+	font-family: 'Oswald', sans-serif;
+}
+
